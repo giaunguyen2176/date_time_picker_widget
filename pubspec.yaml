@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   intl: ^0.17.0
   stacked: ^1.7.7
-  dash_chat:
+  jiffy:
     git:
       url: git://github.com/giaunguyen2176/jiffy
       ref: 82e194bc76b363c07a3a778bc730e8b34535a503
